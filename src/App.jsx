@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "digvijay-shelar-725111234",
   medium: "",
   twitter: "_DevShelar_",
-  youTube: "devshelar",
+  youTube: "UCGoN_vUQ6Vp5-_Wb8QoPCfQ",
 };
 
 const primaryColor = "#4E567E";
