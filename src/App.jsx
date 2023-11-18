@@ -28,7 +28,7 @@ const siteProps = {
   title: "Web Developer & UI/UX Designer",
   email: "digvijayshelar@example.com",
   gitHub: "shelar1423",
-  instagram: "__shelat__",
+  instagram: "__shelar__",
   linkedIn: "digvijay-shelar-725111234",
   medium: "",
   twitter: "_DevShelar_",
